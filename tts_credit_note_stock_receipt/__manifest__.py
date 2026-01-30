@@ -30,6 +30,7 @@
     'data': [
         'views/account_move_views.xml',
     ],
+    'images': ['static/description/main_screenshot.png'],
     'installable': True,
     'application': True,
     'license': 'LGPL-3',
